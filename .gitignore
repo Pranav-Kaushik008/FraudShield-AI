@@ -1,0 +1,27 @@
+venv/
+__pycache__/
+*.pyc
+
+# Node
+frontend/node_modules/
+
+# Dataset
+backend/data/raw/
+backend/data/processed/
+
+# MLflow
+backend/mlruns/
+
+# Environment
+.env
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Frontend build & environment
+frontend/dist/
+frontend/.env
