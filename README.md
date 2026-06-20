@@ -143,5 +143,5 @@ Make sure the following variables are configured before deployment:
 | `DB_PORT` | Port of the database | `5432` |
 | `DB_NAME` | Name of the database schema | `fraudshield_db` |
 | `DB_USER` | Admin username | `postgres` |
-| `DB_PASSWORD`| Admin password | `Pranav@2003` |
+| `DB_PASSWORD`| Admin password | `your password` |
 | `VITE_API_URL` | Frontend pointer to Uvicorn API | `http://localhost:8000` |
